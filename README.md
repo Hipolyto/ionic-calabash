@@ -15,7 +15,14 @@ While this is a great first step in automated UI acceptance test automation, the
 Is recommend that you use the most recent released version of Xcode, MacOS, and Ruby.
 
 MacOS 10.10 or 10.11
-Xcode 6 or 7
-iOS Devices >= 7.1
-iOS Simulators >= 8.0
+
+Xcode 7 or 8
+
+iOS Devices >= 9.0
+
+iOS Simulators >= 9.0
+
 ruby >= 2.0 (latest is preferred)
+
+
+
