@@ -39,6 +39,8 @@ $ gem install bundler
 $ bundle install
 ```
 
+###  If you are on Windows you can get Ruby from RubyInstaller.org
+
 #### ANDROID
 
 ```
@@ -57,6 +59,19 @@ $ gem install calabash-cucumber
 ```
 $ curl -sSL https://raw.githubusercontent.com/calabash/install/master/install-osx.sh | bash
 ```
+
+### Windows:
+#### In an administrator Powershell:
+
+```
+set-executionpolicy unrestricted
+```
+
+## TROUBLESHOOTING
+
+if you are installing Calabash for the first time, you should restart the terminal after installation, as not all done during installation might not be in use
+
+Please check out official Site https://github.com/calabash/install.
 
 ### There's a problem with the syntax highlighting of a file
 
