@@ -39,20 +39,24 @@ $ gem install bundler
 $ bundle install
 ```
 
-## ANDROID
+#### ANDROID
 
 ```
 # If you want to use Calabash for Android, make sure you have the latest and greatest SDK installed.
 $ gem install calabash-android
 ```
 
-## IOS
+#### IOS
 
 ```
 # For the host machine, it’s recommended to have (at least) Mac OS 10.11 (Capitan) or 10.12 with Xcode 7.x or 8.x. d.
 $ gem install calabash-cucumber
 ```
 
+### If you are using Mac OS X, you could also use cURL to fetch all files to your machine:
+```
+$ curl -sSL https://raw.githubusercontent.com/calabash/install/master/install-osx.sh | bash
+```
 
 ### There's a problem with the syntax highlighting of a file
 
