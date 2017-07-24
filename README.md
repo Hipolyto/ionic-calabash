@@ -30,8 +30,13 @@ Calabash requires Ruby to be installed on your machine. First, check whether you
 
 ##### Vim
 ```
-# Some examples of various styles:
+# On Console:
 $ ruby -v
+```
+
+```
+$ gem install bundler
+$ bundle install
 ```
 
 ### There's a problem with the syntax highlighting of a file
