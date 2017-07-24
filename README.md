@@ -73,7 +73,9 @@ if you are installing Calabash for the first time, you should restart the termin
 
 Please check out official Site https://github.com/calabash/install.
 
-### There's a problem with the syntax highlighting of a file
+### Please Visit the Wiki:
+
+https://github.com/Hipolyto/ionic-calabash/wiki/Basic-Calabash-Setup
 
 #### Documentation
 
