@@ -28,16 +28,31 @@ ruby >= 2.0 (latest is preferred)
 
 Calabash requires Ruby to be installed on your machine. First, check whether you have Ruby installed on your machine:
 
-##### Vim
 ```
 # On Console:
 $ ruby -v
 ```
+##### In addition, if you plan to manage several versions of Ruby, it’s recommended to use tools like rbenv.
 
 ```
 $ gem install bundler
 $ bundle install
 ```
+
+## ANDROID
+
+```
+# If you want to use Calabash for Android, make sure you have the latest and greatest SDK installed.
+$ gem install calabash-android
+```
+
+## IOS
+
+```
+# For the host machine, it’s recommended to have (at least) Mac OS 10.11 (Capitan) or 10.12 with Xcode 7.x or 8.x. d.
+$ gem install calabash-cucumber
+```
+
 
 ### There's a problem with the syntax highlighting of a file
 
