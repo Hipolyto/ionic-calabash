@@ -24,12 +24,15 @@ iOS Simulators >= 9.0
 
 ruby >= 2.0 (latest is preferred)
 
-# Quick Septup
+### Quick Septup
 
 Calabash requires Ruby to be installed on your machine. First, check whether you have Ruby installed on your machine:
 
+##### Vim
+```
+# Some examples of various styles:
 $ ruby -v
-
+```
 
 ### There's a problem with the syntax highlighting of a file
 
